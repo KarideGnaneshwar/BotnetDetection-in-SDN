@@ -72,9 +72,4 @@ making modern networks more robust and resilient.
 
 <hr>
 
-<h2>👨‍💻 Author</h2>
-<p>
-<strong>Name:</strong> Karide Gnaneshwar<br>
-<strong>Email:</strong> 
-<a href="mailto:karidegnaneshwar@gmail.com">karidegnaneshwar@gmail.com</a><br>
-</p>
+
